@@ -34,8 +34,8 @@
   <img align="right" alt="simba" height="170" width="220" src="https://media.giphy.com/media/M4gZTZkxbe4X6/giphy.gif?cid=790b76119f3fe4df628b579932f70c618b1e74b2a090250a&rid=giphy.gif&ct=g">
 </div>
   
-  <!--<div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </div>--!>
+  <div>
+   ![Snake animation](https://github.com/alexander-brandao/alexander-brandao/blob/output/github-contribution-grid-snake.svg)
+  </div>
   
   
