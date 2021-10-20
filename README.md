@@ -20,7 +20,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  // <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g">
+  /* <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g"> */
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="cplusplus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
