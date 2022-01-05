@@ -1,6 +1,6 @@
 # 🔥𝚨Ω🔥 Hi, My name is **Alexander Brandao** 🔥𝚨Ω🔥
 
-### I'm from **Brazil** 🇧🇷  I'm A **Computer Engineer**👨‍💻  and A **Capoeira fighter**👊
+### I'm from **Brazil** 🇧🇷  I'm A **Computer Engineer**👨‍💻 
 
 - 📍   **Living in Brasilia** 
 - 📈   **Software Engineer at ANATEL ( The National Telecommunications Agency of Brazil )**
