@@ -21,9 +21,6 @@
 </div>
   
  <hr/>
-<p><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexander-brandao&theme=github_dark" alt="alexander-brandao"/></p>
-  
- <hr/>
   
  <div style="display: inline_block"><br>
   <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g">
@@ -35,6 +32,14 @@
   <img align="center" alt="Ruby" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="right" alt="simba" height="170" width="220" src="https://media.giphy.com/media/M4gZTZkxbe4X6/giphy.gif?cid=790b76119f3fe4df628b579932f70c618b1e74b2a090250a&rid=giphy.gif&ct=g">
 </div>
+
+ <br>
+ <hr/>
+ 
+ <div>
+  <p><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexander-brandao&theme=github_dark" alt="alexander-brandao"/></p>
+ </div>
+ 
   
  
   
