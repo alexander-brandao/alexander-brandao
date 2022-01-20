@@ -19,6 +19,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-brandao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexander-brandao&theme=github_dark" alt="alexander-brandao" align = "center"/></p>
+  
   <div style="display: inline_block"><br>
     <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g">
   
