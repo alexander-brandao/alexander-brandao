@@ -20,7 +20,9 @@
 </div>
   
   <hr />
-<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexander-brandao&theme=github_dark" alt="alexander-brandao" align = "center"/></p>
+<p><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexander-brandao&theme=github_dark" alt="alexander-brandao"/></p>
+  
+  <hr />
   
   <div style="display: inline_block"><br>
     <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g">
