@@ -1,6 +1,6 @@
-# 🔥𝚨Ω🔥  **Alexander Brandao** 🔥𝚨Ω🔥
+# 🔥𝚨Ω🔥  **Pleasure, Alexander Brandao** 🔥𝚨Ω🔥
 
-### I'm from **Brazil** 🇧🇷  I'm A **Computer Engineer**👨‍💻 
+### I'm A **Computer Engineer**👨‍💻 from **Brazil** 🇧🇷 
 
 - 📍   **Living in Brasilia** 
 - 📈   **Software Engineer at ANATEL ( The National Telecommunications Agency of Brazil )**
