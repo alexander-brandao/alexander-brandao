@@ -12,15 +12,6 @@
   
  </div>
  <hr/>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-<div>
-  <a href="https://alexander-brandao.github.io/Alpha-Omega/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexander-brandao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-brandao&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <hr/>
   
  <div style="display: inline_block"><br>
   <img align="left" alt="espada" height="170" width="220" src="https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif?cid=ecf05e47tmo0oagjgvbnns0utcxia7vxwxrj0h8wmtlszkji&rid=giphy.gif&ct=g">
