@@ -4,7 +4,6 @@
 
 - 📍   **Living in Brasilia** 
 - 📈   **Software Engineer at ANATEL ( The National Telecommunications Agency of Brazil )**
-- 🛸   **My website link:[🔥✨ 𝚨Ω ✨🔥](https://alexander-brandao.github.io/Alpha-Omega/)**
 
 
  <div>
