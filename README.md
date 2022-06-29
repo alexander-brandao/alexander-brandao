@@ -1,5 +1,11 @@
 # 🔥𝚨Ω🔥  **Pleasure, Alexander Brandao** 🔥𝚨Ω🔥
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexander-brandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-brandao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### I'm A **Computer Engineer**👨‍💻 from **Brazil** 🇧🇷 
 
 - 📍   **Living in Brasilia** 
@@ -23,14 +29,7 @@
   <img align="right" alt="simba" height="170" width="220" src="https://media.giphy.com/media/M4gZTZkxbe4X6/giphy.gif?cid=790b76119f3fe4df628b579932f70c618b1e74b2a090250a&rid=giphy.gif&ct=g">
 </div>
 
-<hr/>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexander-brandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-brandao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
   
  
   
