@@ -8,8 +8,6 @@
 
 ### I'm A **Computer Engineer**👨‍💻 from **Brazil** 🇧🇷 
 
-- 📍   **Living in Brasilia** 
-- 📈   **Software Engineer at ANATEL ( The National Telecommunications Agency of Brazil )**
 
 
  <div>
