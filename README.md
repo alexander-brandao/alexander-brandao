@@ -1,4 +1,4 @@
-# 🔥𝚨Ω🔥  **Pleasure, Alexander Brandao** 🔥𝚨Ω🔥
+# 🔥𝚨Ω🔥
 
 <div align="center">
   <a href="https://github.com/alexander-brandao">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-brandao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### I'm A **Computer Engineer**👨‍💻 from **Brazil** 🇧🇷 
+### **Computer Engineer**👨‍💻 from **Brazil** 🇧🇷 
 
 
 
